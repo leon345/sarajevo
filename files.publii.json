@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "3f9d0eb0a461f66b578e2c2e9b8d8f1b"
+        "md5": "712709dbe93e45dc1c0b489265db7457"
     },
     {
         "path": "assets",
@@ -122,12 +122,12 @@
     {
         "path": "/authors/leon/index.html",
         "type": "file",
-        "md5": "91eb8c5082ff2669fc6e0160ea4ed46e"
+        "md5": "917f5a173da8163b79a1652feb56cf3d"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d3b0114987ab81400f7c31190827e130"
+        "md5": "166c9fa6a0528007d1e6b575745c1a7f"
     },
     {
         "path": "media",
@@ -156,6 +156,11 @@
     },
     {
         "path": "/media/posts/1/IMG_4872-2.jpg",
+        "type": "file",
+        "md5": "84d2faec7ad8bb9c9f8298f7cb96efb6"
+    },
+    {
+        "path": "/media/posts/1/IMG_4872.jpg",
         "type": "file",
         "md5": "84d2faec7ad8bb9c9f8298f7cb96efb6"
     },
@@ -225,9 +230,49 @@
         "md5": "fb01918e86f7327b0eae9be691e9e56e"
     },
     {
+        "path": "/media/posts/1/responsive/IMG_4872-2xl.jpg",
+        "type": "file",
+        "md5": "c174979f137c9f5d6b7b2519a44c1484"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_4872-3xl.jpg",
+        "type": "file",
+        "md5": "8bb3c21ab114d952c81ab68fda6a69cd"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_4872-lg.jpg",
+        "type": "file",
+        "md5": "9417fd22fd5d1937de8b0b65415470f9"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_4872-md.jpg",
+        "type": "file",
+        "md5": "56f3ed3dad74388e5f20d838b8afd5c1"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_4872-sm.jpg",
+        "type": "file",
+        "md5": "5721c4522a18f056a5939f75718e1752"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_4872-xl.jpg",
+        "type": "file",
+        "md5": "9f2721a477fcb91987a37b821cf90dd1"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_4872-xs.jpg",
+        "type": "file",
+        "md5": "fb01918e86f7327b0eae9be691e9e56e"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/website/prfil-2.JPEG",
+        "type": "file",
+        "md5": "f53ff4f9fda8948ff14e523c3ff1660e"
     },
     {
         "path": "/media/website/prfil.JPEG",
@@ -238,6 +283,26 @@
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/website/responsive/prfil-2-lg.JPEG",
+        "type": "file",
+        "md5": "e9c7a90c3bd8330cea7e634c724c7dcf"
+    },
+    {
+        "path": "/media/website/responsive/prfil-2-md.JPEG",
+        "type": "file",
+        "md5": "ca925eec49c6aeab50c730a691eef82d"
+    },
+    {
+        "path": "/media/website/responsive/prfil-2-sm.JPEG",
+        "type": "file",
+        "md5": "69413993e870d1f930798a5ef09ab4b2"
+    },
+    {
+        "path": "/media/website/responsive/prfil-2-xs.JPEG",
+        "type": "file",
+        "md5": "7b1c2c8462cb5d02f735020f466831fa"
     },
     {
         "path": "/media/website/responsive/prfil-2xl.JPEG",
@@ -277,11 +342,11 @@
     {
         "path": "sarajevo.html",
         "type": "file",
-        "md5": "98c3d9012072971a1b89d63fa03eeffa"
+        "md5": "99e94b5f4f6085d00b89e2105144d492"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "5c8c53aa055ee92ebdd8104675bd32fd"
+        "md5": "c20eb49a93596924678166bd4b6305e1"
     }
 ]
