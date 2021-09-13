@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "712709dbe93e45dc1c0b489265db7457"
+        "md5": "a64a172888d1aab22370c223ffa8a363"
     },
     {
         "path": "assets",
@@ -122,12 +122,12 @@
     {
         "path": "/authors/leon/index.html",
         "type": "file",
-        "md5": "917f5a173da8163b79a1652feb56cf3d"
+        "md5": "63694bb38f6570c472293993227ba5e0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "166c9fa6a0528007d1e6b575745c1a7f"
+        "md5": "4e0d0e411caf0d9f4537fe338814a2d2"
     },
     {
         "path": "media",
@@ -270,11 +270,6 @@
         "md5": false
     },
     {
-        "path": "/media/website/prfil-2.JPEG",
-        "type": "file",
-        "md5": "f53ff4f9fda8948ff14e523c3ff1660e"
-    },
-    {
         "path": "/media/website/prfil.JPEG",
         "type": "file",
         "md5": "f53ff4f9fda8948ff14e523c3ff1660e"
@@ -283,26 +278,6 @@
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/website/responsive/prfil-2-lg.JPEG",
-        "type": "file",
-        "md5": "e9c7a90c3bd8330cea7e634c724c7dcf"
-    },
-    {
-        "path": "/media/website/responsive/prfil-2-md.JPEG",
-        "type": "file",
-        "md5": "ca925eec49c6aeab50c730a691eef82d"
-    },
-    {
-        "path": "/media/website/responsive/prfil-2-sm.JPEG",
-        "type": "file",
-        "md5": "69413993e870d1f930798a5ef09ab4b2"
-    },
-    {
-        "path": "/media/website/responsive/prfil-2-xs.JPEG",
-        "type": "file",
-        "md5": "7b1c2c8462cb5d02f735020f466831fa"
     },
     {
         "path": "/media/website/responsive/prfil-2xl.JPEG",
@@ -342,11 +317,11 @@
     {
         "path": "sarajevo.html",
         "type": "file",
-        "md5": "99e94b5f4f6085d00b89e2105144d492"
+        "md5": "29433f08b7495ea96e10cc84d2e5a288"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "c20eb49a93596924678166bd4b6305e1"
+        "md5": "d38f04c8bba7a38dde373b1beabce7ea"
     }
 ]
