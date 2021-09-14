@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "a64a172888d1aab22370c223ffa8a363"
+        "md5": "832a8e9d7ee7b1da869b2d50613bd1c8"
     },
     {
         "path": "assets",
@@ -122,12 +122,12 @@
     {
         "path": "/authors/leon/index.html",
         "type": "file",
-        "md5": "63694bb38f6570c472293993227ba5e0"
+        "md5": "38e229fdcda77eca5d2e191f5dbd2e12"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "4e0d0e411caf0d9f4537fe338814a2d2"
+        "md5": "43f8f15a8b7e9b3201a1731acfa43e8d"
     },
     {
         "path": "media",
@@ -145,59 +145,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/1/IMG_4858.jpg",
-        "type": "file",
-        "md5": "24b66e04a7f133be85e40a516df1cb65"
-    },
-    {
-        "path": "/media/posts/1/IMG_4862-2.jpg",
-        "type": "file",
-        "md5": "02a3ef1a4e950280f3d87a25a13e2764"
-    },
-    {
-        "path": "/media/posts/1/IMG_4872-2.jpg",
-        "type": "file",
-        "md5": "84d2faec7ad8bb9c9f8298f7cb96efb6"
-    },
-    {
         "path": "/media/posts/1/IMG_4872.jpg",
         "type": "file",
         "md5": "84d2faec7ad8bb9c9f8298f7cb96efb6"
-    },
-    {
-        "path": "/media/posts/1/IMG_4873.jpg",
-        "type": "file",
-        "md5": "4b7cc4e82e3fb4a0d123d1f89cc2e52e"
-    },
-    {
-        "path": "/media/posts/1/IMG_4874.jpg",
-        "type": "file",
-        "md5": "976aa0d1ed9d5afe692a8ea16263c91c"
-    },
-    {
-        "path": "/media/posts/1/IMG_4876.jpg",
-        "type": "file",
-        "md5": "0143d874b8a7ecb61ddb6ea5bf3fbd3f"
-    },
-    {
-        "path": "/media/posts/1/IMG_4879.jpg",
-        "type": "file",
-        "md5": "efadfac5822a33dcbfdcde293d971ab6"
-    },
-    {
-        "path": "/media/posts/1/IMG_4880.jpg",
-        "type": "file",
-        "md5": "ca496c48fea3525c956d8b094258c61b"
-    },
-    {
-        "path": "/media/posts/1/IMG_4882.jpg",
-        "type": "file",
-        "md5": "224089f090d0ae5a632d34472b5b43a9"
-    },
-    {
-        "path": "/media/posts/1/IMG_4884.jpg",
-        "type": "file",
-        "md5": "3e3f10669b203892cd3e0029a8bf6941"
     },
     {
         "path": "media/posts/1/responsive",
@@ -205,274 +155,39 @@
         "md5": false
     },
     {
-        "path": "/media/posts/1/responsive/IMG_4858-lg.jpg",
-        "type": "file",
-        "md5": "f8244f03baeb5b41b3d64415fea20055"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4858-md.jpg",
-        "type": "file",
-        "md5": "5d25c7c622c060af8f461ff5bbf2bb74"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4858-sm.jpg",
-        "type": "file",
-        "md5": "e47fd24eb256803c42abbd1597da3cbc"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4858-xs.jpg",
-        "type": "file",
-        "md5": "214d528dee12c1036ada05998f02393d"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4862-2-lg.jpg",
-        "type": "file",
-        "md5": "a1532c6f7b3a4278a8b98453df536ce8"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4862-2-md.jpg",
-        "type": "file",
-        "md5": "906d218aa3d68759b0aa9b111f408236"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4862-2-sm.jpg",
-        "type": "file",
-        "md5": "f9ad25da907707f3155350fd168b8b5a"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4862-2-xs.jpg",
-        "type": "file",
-        "md5": "03cff8a53507ccc0066b0b89790cb8d7"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4872-2-lg.jpg",
-        "type": "file",
-        "md5": "1f35bc6c62d8f7165517951959ac2812"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4872-2-md.jpg",
-        "type": "file",
-        "md5": "25696584f879fe273816cee7563c804f"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4872-2-sm.jpg",
-        "type": "file",
-        "md5": "c176c6e16fa93aa92c37d376030380dd"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4872-2-xs.jpg",
-        "type": "file",
-        "md5": "bc9d052397fa35b6bd25d464ccbf4adf"
-    },
-    {
         "path": "/media/posts/1/responsive/IMG_4872-2xl.jpg",
         "type": "file",
-        "md5": "3e8e5269f6ce7ae0ac27ebd2eedcfb31"
+        "md5": "0ed1dd67f68407e06c60fee7b28773bd"
     },
     {
         "path": "/media/posts/1/responsive/IMG_4872-3xl.jpg",
         "type": "file",
-        "md5": "ff009aad53b4f3d38fc902769bc98b1b"
+        "md5": "25c44f9d7a49b76b959254af3b0b629e"
     },
     {
         "path": "/media/posts/1/responsive/IMG_4872-lg.jpg",
         "type": "file",
-        "md5": "1f35bc6c62d8f7165517951959ac2812"
+        "md5": "dbf0aaf55f12acd5d38fe068e2b888ce"
     },
     {
         "path": "/media/posts/1/responsive/IMG_4872-md.jpg",
         "type": "file",
-        "md5": "25696584f879fe273816cee7563c804f"
+        "md5": "b93a6b2a2944d715da2112c60c64d145"
     },
     {
         "path": "/media/posts/1/responsive/IMG_4872-sm.jpg",
         "type": "file",
-        "md5": "c176c6e16fa93aa92c37d376030380dd"
+        "md5": "550b7d17ce08b0114f2cc9a813152729"
     },
     {
         "path": "/media/posts/1/responsive/IMG_4872-xl.jpg",
         "type": "file",
-        "md5": "299f6a5e48d00f7d4815e2425fb8d045"
+        "md5": "90f56543de4c883231883b5d50640d59"
     },
     {
         "path": "/media/posts/1/responsive/IMG_4872-xs.jpg",
         "type": "file",
-        "md5": "bc9d052397fa35b6bd25d464ccbf4adf"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4873-lg.jpg",
-        "type": "file",
-        "md5": "4a80a9c8b995db23592ed21e4cc5d73c"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4873-md.jpg",
-        "type": "file",
-        "md5": "1bea88e0f00517fe7ab30f0625587a44"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4873-sm.jpg",
-        "type": "file",
-        "md5": "4fb8c58f24ea868156f3f75627669cd1"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4873-xs.jpg",
-        "type": "file",
-        "md5": "8ee0f18b5c13fcfe0d9193a72f4da7ed"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4874-lg.jpg",
-        "type": "file",
-        "md5": "9132463592cbba3fac7df0ea5424da47"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4874-md.jpg",
-        "type": "file",
-        "md5": "03cf3fe978857f660a698f7164de7b94"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4874-sm.jpg",
-        "type": "file",
-        "md5": "82dd44b0df817174098964a099b0abc0"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4874-xs.jpg",
-        "type": "file",
-        "md5": "94da14093d82a0aea4f9d1b6536c2e05"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4876-lg.jpg",
-        "type": "file",
-        "md5": "21eb13442e5dbc1cf8919e78d1352b69"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4876-md.jpg",
-        "type": "file",
-        "md5": "6c0aa56d7f4d41e72d6cd6d4b4f1df9c"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4876-sm.jpg",
-        "type": "file",
-        "md5": "e46593ed5eef94d7b1e5b818b3d26ecb"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4876-xs.jpg",
-        "type": "file",
-        "md5": "b822b8033e6438f698aa0e50fe998df5"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4879-lg.jpg",
-        "type": "file",
-        "md5": "e9b790f075a0f9530b60dfd65cadf5b7"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4879-md.jpg",
-        "type": "file",
-        "md5": "639befc967e5e10a611d62b43e4c07dd"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4879-sm.jpg",
-        "type": "file",
-        "md5": "8e66dd29dbaf5c9c14b1e64a8a11271c"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4879-xs.jpg",
-        "type": "file",
-        "md5": "2ff026bca11a8f5436921607c9be967f"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4880-lg.jpg",
-        "type": "file",
-        "md5": "38356bbefd3dfd26b244aece3243b7a4"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4880-md.jpg",
-        "type": "file",
-        "md5": "f8969625567a463b6739578e04dee25e"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4880-sm.jpg",
-        "type": "file",
-        "md5": "179981bd8e90131e02cb8d514e49d96e"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4880-xs.jpg",
-        "type": "file",
-        "md5": "abf6bb3ee8f407020d77af4dc09439bc"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4882-lg.jpg",
-        "type": "file",
-        "md5": "c1cd4d71a1782ed3d38f8bf8e4114f90"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4882-md.jpg",
-        "type": "file",
-        "md5": "c4ea234ea6e137e264f3293289112b2c"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4882-sm.jpg",
-        "type": "file",
-        "md5": "0b6110b75d3cd0986376168b080e8943"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4882-xs.jpg",
-        "type": "file",
-        "md5": "1c3d607901057892671b71478727ef73"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4884-lg.jpg",
-        "type": "file",
-        "md5": "15b6134c4d9ea7f12de9898e6a3b5091"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4884-md.jpg",
-        "type": "file",
-        "md5": "f8d68e56447a7230b0ea368fb0c16fe1"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4884-sm.jpg",
-        "type": "file",
-        "md5": "dde6750413c106c71f10120f496bceea"
-    },
-    {
-        "path": "/media/posts/1/responsive/IMG_4884-xs.jpg",
-        "type": "file",
-        "md5": "f9ff0e6526aae3522034d1f43092409d"
-    },
-    {
-        "path": "media/website",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/website/prfil.JPEG",
-        "type": "file",
-        "md5": "f53ff4f9fda8948ff14e523c3ff1660e"
-    },
-    {
-        "path": "media/website/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/website/responsive/prfil-lg.JPEG",
-        "type": "file",
-        "md5": "0e8bbdfa51421fb5cd8fee027777b6be"
-    },
-    {
-        "path": "/media/website/responsive/prfil-md.JPEG",
-        "type": "file",
-        "md5": "21e69ececc90b8963ebfcb422b14b68d"
-    },
-    {
-        "path": "/media/website/responsive/prfil-sm.JPEG",
-        "type": "file",
-        "md5": "8c4f58eed3082e0dfaee144563bc090f"
-    },
-    {
-        "path": "/media/website/responsive/prfil-xs.JPEG",
-        "type": "file",
-        "md5": "2d49f8b06a131b9b8a0aaef38de04420"
+        "md5": "44cbfcbb37ad9869ef46dbee6e371242"
     },
     {
         "path": "robots.txt",
@@ -482,11 +197,11 @@
     {
         "path": "sarajevo.html",
         "type": "file",
-        "md5": "ab71076cd7302785b57645a665868111"
+        "md5": "78be308dd152e717fc8adeb394a3c1fa"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "d38f04c8bba7a38dde373b1beabce7ea"
+        "md5": "6afb703241e9f992ff7d2a7308d5709f"
     }
 ]
